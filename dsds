@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>League of Legends</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>League of Legends</h1>
+        <nav>
+            <ul>
+                <li><a href="#champion">Champions</a></li>
+                <li><a href="#features">Fonctionnalités</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="champion">
+        <h2>Champion: Ahri</h2>
+        <img src="https://static.wikia.nocookie.net/leagueoflegends/images/8/88/Ahri_OriginalSkin.png" alt="Ahri" />
+        <p>Ahri est un champion à distance qui utilise la magie pour infliger des dégâts à ses ennemis.</p>
+    </section>
+
+    <section id="features">
+        <h2>Fonctionnalités</h2>
+        <ul>
+            <li>Jouer avec des amis</li>
+            <li>Plus de 150 champions</li>
+            <li>Cartes et modes variés</li>
+            <li>Compétitions et classements</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 League of Legends</p>
+    </footer>
+</body>
+</html>
